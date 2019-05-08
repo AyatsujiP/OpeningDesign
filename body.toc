@@ -15,3 +15,16 @@
 \contentsline {paragraph}{\numberline {1.5.2.4}6... Ne7}{16}% 
 \contentsline {subparagraph}{\numberline {1.5.2.4.1}7. Nge2 dxc4}{16}% 
 \contentsline {subparagraph}{\numberline {1.5.2.4.2}7. Nge2 Nd7}{17}% 
+\contentsline {section}{\numberline {2}French, Tarrach, Closed, Korchnoi Gambit}{18}% 
+\contentsline {subsection}{\numberline {2.1}序論}{18}% 
+\contentsline {subsection}{\numberline {2.2}12... Bc5の変化}{20}% 
+\contentsline {subsubsection}{\numberline {2.2.1}12... Bc5 13. Qg4! Kf8}{20}% 
+\contentsline {subsubsection}{\numberline {2.2.2}12... Bc5 13. Qg4! g6}{20}% 
+\contentsline {subsection}{\numberline {2.3}12... Be7の変化}{20}% 
+\contentsline {subsubsection}{\numberline {2.3.1}12... Be7 13. Qg4 g6 14. h4 Nf8}{21}% 
+\contentsline {subsubsection}{\numberline {2.3.2}12... Be7 13. Qg4 g6 14. h4 Nc5}{21}% 
+\contentsline {subsubsection}{\numberline {2.3.3}12... Be7 13. Qg4 g6 14. h4 Qb4}{21}% 
+\contentsline {subsection}{\numberline {2.4}12... Qb4の変化}{21}% 
+\contentsline {subsection}{\numberline {2.5}Anti-Korchnoi Gambit}{22}% 
+\contentsline {subsubsection}{\numberline {2.5.1}7... cxd4 8. cxd4 f6}{22}% 
+\contentsline {subsubsection}{\numberline {2.5.2}7... Be7 8. O-O g5!}{24}% 
