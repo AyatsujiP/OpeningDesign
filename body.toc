@@ -28,3 +28,34 @@
 \contentsline {subsection}{\numberline {2.5}Anti-Korchnoi Gambit}{22}% 
 \contentsline {subsubsection}{\numberline {2.5.1}7... cxd4 8. cxd4 f6}{22}% 
 \contentsline {subsubsection}{\numberline {2.5.2}7... Be7 8. O-O g5!}{24}% 
+\contentsline {section}{\numberline {3}Sicilian, Najdorf, Scheveningen Formation}{25}% 
+\contentsline {subsection}{\numberline {3.1}序論}{25}% 
+\contentsline {subsubsection}{\numberline {3.1.1}1923 Scheveningen大会}{25}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Keres Attackの登場(1943)}{25}% 
+\contentsline {subsubsection}{\numberline {3.1.3}Najdorf Variationの登場(1950年代)}{26}% 
+\contentsline {subsubsection}{\numberline {3.1.4}English Attackの登場(1980年代)}{26}% 
+\contentsline {subsubsection}{\numberline {3.1.5}KasparovとScheveningen Formation(1980年代)}{26}% 
+\contentsline {subsection}{\numberline {3.2}局面のポイント}{26}% 
+\contentsline {subsubsection}{\numberline {3.2.1}局面評価}{27}% 
+\contentsline {subsubsection}{\numberline {3.2.2}白のテーマ}{28}% 
+\contentsline {subsubsection}{\numberline {3.2.3}黒のテーマ}{29}% 
+\contentsline {subsection}{\numberline {3.3}6. Be3 e6 7. f3 b5型}{29}% 
+\contentsline {subsubsection}{\numberline {3.3.1} 8. Qd2}{30}% 
+\contentsline {paragraph}{\numberline {3.3.1.1}8. Qd2 Nbd7 9. g4}{30}% 
+\contentsline {paragraph}{\numberline {3.3.1.2}8. Qd2 Nbd7 9. O-O-O}{30}% 
+\contentsline {subsubsection}{\numberline {3.3.2}8. g4}{31}% 
+\contentsline {paragraph}{\numberline {3.3.2.1}8. g4 h6 9. Qd2}{31}% 
+\contentsline {paragraph}{\numberline {3.3.2.2}8. g4 h6 9. h4}{31}% 
+\contentsline {subsection}{\numberline {3.4}7. g4!?}{31}% 
+\contentsline {subsubsection}{\numberline {3.4.1}7. g4!? e5}{32}% 
+\contentsline {subsubsection}{\numberline {3.4.2}7. g4!? h5!?}{33}% 
+\contentsline {subsection}{\numberline {3.5}Kasparov新手 8... Nfd7の動向}{33}% 
+\contentsline {subsubsection}{\numberline {3.5.1}1. Kasparov新手 8... Nfd7}{33}% 
+\contentsline {subsubsection}{\numberline {3.5.2}Shirovによる反駁 11. Ndxb5(13. Ndxb5)}{35}% 
+\contentsline {subsubsection}{\numberline {3.5.3}Ndxb5の成立条件}{36}% 
+\contentsline {subsection}{\numberline {3.6}10... Bb7の成立可否}{36}% 
+\contentsline {subsubsection}{\numberline {3.6.1} 11... Nc6}{37}% 
+\contentsline {subsubsection}{\numberline {3.6.2}11... b4!}{37}% 
+\contentsline {subsection}{\numberline {3.7}実戦例}{37}% 
+\contentsline {subsubsection}{\numberline {3.7.1}Game 1: Morozevich A. - Vachier-Lagrave, M. (2009)}{37}% 
+\contentsline {subsubsection}{\numberline {3.7.2}Game 2: Leko, P. - Shirov, A. (2012)}{40}% 
