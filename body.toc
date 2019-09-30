@@ -79,3 +79,4 @@
 \contentsline {subsubsection}{\numberline {4.5.2}17... c4に対する白の手段}{57}% 
 \contentsline {subsubsection}{\numberline {4.5.3}実際のゲーム(Pijpers-Habu, 2016)}{57}% 
 \contentsline {subsection}{\numberline {4.6}Saratov Variation}{58}% 
+\contentsline {section}{\numberline {5}おわりに}{60}% 

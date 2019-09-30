@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2019.4.29)  30 SEP 2019 21:53
+This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2019.4.29)  30 SEP 2019 22:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -535,7 +535,7 @@ Package: enumitem 2019/02/04 v3.8 Customized lists
 \enitdp@description=\count151
 )) (./body.aux
 (./introduction.aux) (./chapter-1.aux) (./chapter-2.aux) (./chapter-3.aux)
-(./chapter-4.aux))
+(./chapter-4.aux) (./conclusion.aux))
 \openout1 = `body.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -557,14 +557,16 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for LSB/skaknew/m/n on input line 9.
 LaTeX Font Info:    Try loading font information for LSB+skaknew on input line 
 9.
- (c:/texlive/2018/texmf-dist/tex/latex/chessfss/lsbskaknew.fd
+
+(c:/texlive/2018/texmf-dist/tex/latex/chessfss/lsbskaknew.fd
 File: lsbskaknew.fd 2006/03/31 v1.0 Chess font definitions
 )
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for LSF/skaknew/m/n on input line 9.
 LaTeX Font Info:    Try loading font information for LSF+skaknew on input line 
 9.
- (c:/texlive/2018/texmf-dist/tex/latex/chessfss/lsfskaknew.fd
+
+(c:/texlive/2018/texmf-dist/tex/latex/chessfss/lsfskaknew.fd
 File: lsfskaknew.fd 2006/03/31 v1.0 Chess font definitions
 )
 LaTeX Font Info:    ... okay on input line 9.
@@ -685,15 +687,21 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 ] [43]
 [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58])
-[59] (./body.aux (./introduction.aux) (./chapter-1.aux) (./chapter-2.aux)
-(./chapter-3.aux) (./chapter-4.aux)) ) 
+[59]
+\openout2 = `conclusion.aux'.
+
+ (./conclusion.tex) [60
+
+
+] (./body.aux (./introduction.aux) (./chapter-1.aux) (./chapter-2.aux) (./chapt
+er-3.aux) (./chapter-4.aux) (./conclusion.aux)) ) 
 Here is how much of TeX's memory you used:
- 16608 strings out of 493226
- 321825 string characters out of 6147196
- 433491 words of memory out of 5000000
- 20269 multiletter control sequences out of 15000+600000
+ 16616 strings out of 493226
+ 321938 string characters out of 6147196
+ 433817 words of memory out of 5000000
+ 20270 multiletter control sequences out of 15000+600000
  15036 words of font info for 68 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  64i,8n,87p,581b,1037s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on body.dvi (59 pages, 414912 bytes).
+Output written on body.dvi (60 pages, 417128 bytes).
